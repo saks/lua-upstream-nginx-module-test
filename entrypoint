@@ -21,7 +21,6 @@ cd /nginx-${NGINX_VERSION} && \
     --without-http_limit_req_module \
     --without-http_empty_gif_module \
     --without-http_browser_module \
-    --without-http_upstream_hash_module \
     --without-http_upstream_ip_hash_module \
     --without-http_upstream_least_conn_module \
     --without-http_upstream_keepalive_module \
